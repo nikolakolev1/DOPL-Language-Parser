@@ -1,0 +1,4 @@
+start
+logical x;
+x <- (.minus.(3.ne.(((4))))).and.0(.or.(4));
+finish

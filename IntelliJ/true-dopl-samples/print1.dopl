@@ -1,0 +1,4 @@
+start
+integer b;
+print b;
+finish

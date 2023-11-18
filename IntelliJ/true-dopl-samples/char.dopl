@@ -1,0 +1,4 @@
+start
+character c;
+c <- "a";
+finish

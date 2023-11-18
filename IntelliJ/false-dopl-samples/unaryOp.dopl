@@ -1,0 +1,4 @@
+start
+logical x;
+x <- .minus.(3.minus.4);
+finish

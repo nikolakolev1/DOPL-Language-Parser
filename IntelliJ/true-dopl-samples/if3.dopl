@@ -1,0 +1,9 @@
+start
+integer a;
+    if a .eq. 12
+    then
+        a <- 22;
+    else
+        a <- 32;
+    endif;
+finish

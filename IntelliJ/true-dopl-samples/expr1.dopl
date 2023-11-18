@@ -1,0 +1,4 @@
+start
+integer xyz;
+    xyz <- .minus. 12345;
+finish

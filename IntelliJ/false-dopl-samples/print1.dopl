@@ -1,0 +1,4 @@
+start
+integerb;
+print b;
+finish

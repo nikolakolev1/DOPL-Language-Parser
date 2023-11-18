@@ -1,0 +1,4 @@
+start
+integer x;
+x <- 3(.minus.8);
+finish
